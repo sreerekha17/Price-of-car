@@ -49,6 +49,8 @@ region
 type
 
 2. Data Cleaning & Preparation
+Link to Jupyter Notebook - https://github.com/sreerekha17/Price-of-car/blob/main/car-prices.ipynb
+
 
 Before modeling, several cleaning and transformation steps were applied to ensure data quality and model reliability.
 
